@@ -62,7 +62,22 @@
 запросы и ответы со стороны сервиса для **всех** его операций.
 
 #### Демонстрация работы
-todo
+
+POST
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/e27088ee-2573-46e6-9a72-2cd4dcb70110)
+
+GET
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/ac4fb2da-e650-46af-98af-c61f06c4629f)
+
+GET MANY
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/46f01c6f-b0e1-4e4b-b6d8-10f3cf54b02d)
+
+PUT
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/088c0489-23b4-42b1-88c4-21d47ed87e6c)
+
+DELETE
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/cf5368e7-eb48-4a1d-b007-6c05e2a03050)
+
 
 ### Задание В (4 балла)
 Пусть ваш продукт также имеет иконку (небольшую картинку). Формат иконки (картинки) может
@@ -84,7 +99,12 @@ todo
 ```
 
 #### Демонстрация работы
-todo
+
+POST ICON
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/d28679f5-57e0-4d00-bb1f-e735f303d1f6)
+
+GET ICON
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/3c17a36b-c21b-42d4-acc7-56737aad72ab)
 
 ---
 
