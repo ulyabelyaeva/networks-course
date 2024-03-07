@@ -26,7 +26,9 @@
 ```
 
 #### Демонстрация работы
-todo
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/7662ba30-5f53-4bb1-8dde-fabea8f41ca9)
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/a79c7d06-2b9d-41d0-83e9-efd46ff5d08a)
+
 
 ### Б. Многопоточный веб-сервер (2 балла)
 Реализуйте многопоточный сервер, который мог бы обслуживать несколько запросов
