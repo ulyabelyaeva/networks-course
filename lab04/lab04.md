@@ -71,12 +71,24 @@ todo
 
 #### Вопросы
 1. Выполните nslookup, чтобы получить IP-адрес какого-либо веб-сервера в Азии
-   - <!-- todo -->
+Name:    taiwannews.com.tw
+Address:  210.61.46.157
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/70953b12-b98c-408f-bfc0-c1a6b14f2faa)
+
 2. Выполните nslookup, чтобы определить авторитетные DNS-серверы для какого-либо университета в Европе
-   - <!-- todo -->
+ns1.ethz.ch     internet address = 129.132.98.8
+ns2.ethz.ch     internet address = 129.132.250.8
+ns2.switch.ch   internet address = 130.59.31.29
+ns1.ethz.ch     AAAA IPv6 address = 2001:67c:10ec::a
+ns2.ethz.ch     AAAA IPv6 address = 2001:67c:10ec::b
+ns2.switch.ch   AAAA IPv6 address = 2001:620:0:ff::2f
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/4c6b121e-2e74-4184-b7d5-12ea34466e2c)
+
 3. Используя nslookup, найдите веб-сервер, имеющий несколько IP-адресов. Сколько IP-адресов имеет веб-сервер вашего учебного заведения?
-   - <!-- todo -->
-   - <!-- todo -->
+   -  5.255.255.242, 77.88.55.242
+   -  СПБГУ - 1, СПБПУ - 6
+  ![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/1667f76d-66a7-4220-a0f9-0feebb8ff143)
+  ![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/d376704f-86de-490b-9c8d-5e764bc8e805)
 
 ### Б. DNS-трассировка www.ietf.org (3 балла)
 
