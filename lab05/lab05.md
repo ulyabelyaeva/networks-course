@@ -17,6 +17,7 @@
 ![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/9d280dfc-8d0b-4a53-8aa0-ae5166f54185)
 ![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/9f2ffd27-ae0e-4f46-b4a2-c2efbc50798f)
 
+код в файле task1.py
 
 ### 2. SMTP-клиент (3 балла)
 Разработайте простой почтовый клиент, который отправляет текстовые сообщения
@@ -61,6 +62,9 @@ Paint (на стороне сервера). Или запустить консо
 ![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/56b3db90-f197-4fc6-a69d-2da19edb7139)
 ![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/c1169979-d222-41e5-a765-b325e0f5d1bc)
 
+код в файлах
+tcp_server_run_commands.py
+tcp_client_run_commands.py
 
 ### В. Широковещательная рассылка через UDP (2 балла)
 Реализуйте сервер (веб-службу) и клиента с использованием интерфейса Socket API, которая:
