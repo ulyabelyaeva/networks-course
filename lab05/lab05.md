@@ -73,7 +73,9 @@ tcp_client_run_commands.py
 - клиент службы выводит на консоль сообщаемое ему время
 
 #### Демонстрация работы
-todo
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/770ba9c9-897d-4ab3-9202-56595ba6e4dc)
+
+код udp_server.py udp_client.py
 
 ## Задачи
 
