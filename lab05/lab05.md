@@ -58,7 +58,9 @@ Paint (на стороне сервера). Или запустить консо
 сервере) отправляется обратно клиенту.
 
 #### Демонстрация работы
-todo
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/56b3db90-f197-4fc6-a69d-2da19edb7139)
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/c1169979-d222-41e5-a765-b325e0f5d1bc)
+
 
 ### В. Широковещательная рассылка через UDP (2 балла)
 Реализуйте сервер (веб-службу) и клиента с использованием интерфейса Socket API, которая:
