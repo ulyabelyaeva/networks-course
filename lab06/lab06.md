@@ -45,7 +45,22 @@
 Приложите скриншоты.
 
 #### Скрины
-todo
+Конфигурация сервера и пользователя, монтирование файловой системы
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/8a73bded-a6ae-44f4-a338-b02b96d30229)
+
+Передача файла 
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/65fc146b-baba-445e-81c3-e90195903b38)
+Успешные передачи
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/8c95c6b4-2f03-4df9-833f-f0053c2d0cd6)
+
+Новая папка
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/c0fbe5f3-2d63-45e9-a1d5-b7369ebc0b22)
+Папка появилась локально в смонтированной директории
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/c900999d-aa03-4908-b085-9aa95b04a767)
+Передача папки
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/b3588216-2df8-43e8-9565-60724b28577b)
+
+
 
 ### FTP клиент (3 балла)
 Создайте консольное приложение FTP клиента для работы с файлами по FTP. Приложение может
