@@ -82,7 +82,7 @@ Time-Sequence-Graph (Stevens) (Статистика => График TCP пото
 серверу gaia.cs.umass.edu. Приложите соответствующий скрин программы Wireshark.
 
 #### Скрин
-todo
+![telegram-cloud-photo-size-2-5222481268032265384-y](https://github.com/ulyabelyaeva/networks-course/assets/83698888/bcbfd3f8-f761-431b-ac10-c858ad6d9e09)
 
 ## Программирование. Эхо-запросы через UDP
 Реализуйте сервер для пингования, а также его клиента.
