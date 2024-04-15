@@ -34,7 +34,7 @@
 Приложите скриншоты, подтверждающие работоспособность программы.
 
 #### Демонстрация работы
-![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/9bf31ecc-7a6f-484e-a2ad-d2da05e9daf0)
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/757be0f0-9ad8-4794-b7c3-84c73fb371bc)
 
 
 ### Б. Дуплексная передача (2 балла)
