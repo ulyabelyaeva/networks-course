@@ -1,4 +1,4 @@
-<img width="584" alt="image" src="https://github.com/ulyabelyaeva/networks-course/assets/83698888/1982c1c2-7aa3-410c-af92-1c3963317019"># Практика 12. Сетевой уровень
+# Практика 12. Сетевой уровень
 
 ## 1. RIP (9 баллов)
 
