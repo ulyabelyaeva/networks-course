@@ -21,16 +21,21 @@
 
 #### Вопросы:
 1. Каков 48-разрядный Ethernet-адрес вашего компьютера?
-   - <!-- todo -->
+   - c0:38:96:6b:b2:5f
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/0b7d09da-ed6e-4dcf-932d-51d8d0029b76)
 2. Какому устройству соответствует значение Ethernet-адреса?
-   Перейдите на сообщение, которое соответствует ответному HTTP-сообщению (отклику).
-   - <!-- todo -->
+   - сетевой карте, HonHaiPrecis_6b:b2:5f (c0:38:96:6b:b2:5f), Qualcomm Atheros AR5BWB222 Wireless Network Adapter
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/ad511a7f-3d07-4172-952f-aebbdc1a1ec3)
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/62a7b485-1887-4424-a993-3dcd61e0a09d)
+
+Перейдите на сообщение, которое соответствует ответному HTTP-сообщению (отклику).
+
 3. Каково значение исходного Ethernet-адреса? Какое устройство имеет такой Ethernet-адрес?
-   - <!-- todo -->
-   - <!-- todo -->
+   - NetisTechnol_f2:88:5d (bc:62:ce:f2:88:5d)
+   - мой роутер
 4. Каков адрес назначения в этом Ethernet-кадре? Это Ethernet-адрес вашего компьютера?
-   - <!-- todo -->
-   - <!-- todo -->
+   - HonHaiPrecis_6b:b2:5f (c0:38:96:6b:b2:5f)
+   - да
 
 ### ARP-протокол (4 балла)
 
