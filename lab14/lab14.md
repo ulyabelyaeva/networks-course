@@ -48,15 +48,18 @@
 #### Вопросы:
 1. Каковы шестнадцатеричные значения исходного и конечного адресов в Ethernet-кадре,
    содержащем сообщение с broadcast ARP-запросом?
-   - <!-- todo -->
+   - fc:aa:14:19:d1:8a, ff:ff:ff:ff:ff:ff, 
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/1f5bf939-962c-4aa4-b96d-4bc37dc519e4)
 2. Содержится ли в ARP-сообщении IP-адрес отправителя?
-   - <!-- todo -->
+   - да
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/7f27818f-a75b-4a6b-af2c-e21ac46b4f7f)
 3. Где в ARP-запросе находится сама «вопросная часть» – Ethernet-адрес той машины, чей
    соответствующий IP-адрес мы запрашиваем?
-   - <!-- todo -->
+   - в поле Target MAC address
+![image](https://github.com/ulyabelyaeva/networks-course/assets/83698888/e564cecb-937e-4ca0-aedf-7e53a39c365c)
 4. Где в сообщении с ARP-откликом хранится Ethernet-адрес, который мы запрашивали на
    основе соответствующего IP-адреса?
-   - <!-- todo -->
+   - в поле Source MAC address
 
 ## Программирование.
 
